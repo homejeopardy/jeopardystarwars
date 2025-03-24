@@ -109,12 +109,16 @@ function generateBoard() {
 }
 
 function showQuestion(event) {
-    currentButton = event.target; // Store the button clicked
+    currentButton = event.target; // Store the clicked button
     const category = currentButton.getAttribute("data-category");
     const points = parseInt(currentButton.getAttribute("data-points"));
 
     currentQuestion = category;
     currentPoints = points;
+
+    // Play the Jeopardy theme song
+    const jeopardyTheme = document.getElementById("jeopardy-theme");
+    jeopardyTheme.play();
 
     document.getElementById("question-text").innerText = categories[category][points][0];
     document.getElementById("popup").style.display = "block";
@@ -124,6 +128,11 @@ function showAnswer() {
     document.getElementById("popup").style.display = "none";
     document.getElementById("answer-text").innerText = categories[currentQuestion][currentPoints][1];
     document.getElementById("answer-popup").style.display = "block";
+
+    // Stop the Jeopardy theme song
+    const jeopardyTheme = document.getElementById("jeopardy-theme");
+    jeopardyTheme.pause();
+    jeopardyTheme.currentTime = 0; // Reset audio to start
 }
 
 function updateScore(correct) {
