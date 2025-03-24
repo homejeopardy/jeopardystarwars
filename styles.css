@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 body {
-    font-family: 'Roboto', Arial, sans-serif;
+    font-family: 'Korinna', Arial, sans-serif;
     background-color: #000066;
     color: white;
     text-align: center;
 }
 
 h1 {
-    font-family: 'Oswald', sans-serif;
+    font-family: 'Press Start 2P', sans-serif;
     font-size: 2.5em;
     margin-bottom: 20px;
 }
@@ -50,7 +50,7 @@ h1 {
     font-weight: bold;
     border: 2px solid white;
     cursor: pointer;
-    color: white;
+    color: white; /* Make the text color white */
 }
 
 .question:disabled {
@@ -58,8 +58,8 @@ h1 {
     cursor: not-allowed;
 }
 
-.question:hover {
-    color: black;
+.question {
+    color: white; /* Ensures the question text is white */
 }
 
 .popup {
@@ -79,5 +79,20 @@ h1 {
     padding: 10px;
     font-size: 1em;
     cursor: pointer;
-    color: black;
+}
+
+#answer-popup {
+    font-family: 'Press Start 2P', sans-serif;
+}
+
+#question-text {
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 1.5em;
+    color: #0000CC;
+}
+
+#answer-text {
+    font-family: 'Press Start 2P', sans-serif;
+    font-size: 1.5em;
+    color: #0000CC;
 }
