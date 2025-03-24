@@ -1,38 +1,38 @@
 const categories = {
-    "Ethical Principles": {
-        100: ["Acting with honesty and truthfulness in all business dealings.", "Integrity"],
-        200: ["The duty to keep sensitive information private.", "Confidentiality"],
-        300: ["Acting in the best interest of clients, customers, or stakeholders.", "Fiduciary duty"],
-        400: ["A situation where personal interests could interfere with professional responsibilities.", "Conflict of interest"],
-        500: ["The principle that requires professionals to acknowledge and correct their mistakes.", "Accountability"]
+    "The Skywalker Saga": {
+        100: ["The podracing event Anakin Skywalker won on Tatooine.", "What is the Boonta Eve Classic?"],
+        200: ["The Jedi Master who trained Qui-Gon Jinn.", "Who is Count Dooku?"],
+        300: ["The Sith Lord who trained Emperor Palpatine.", "Who is Darth Plagueis?"],
+        400: ["The name of Padmé Amidala's home planet.", "What is Naboo?"],
+        500: ["The planet where Obi-Wan Kenobi defeats Anakin Skywalker in *Revenge of the Sith*.", "What is Mustafar?"]
     },
-    "Workplace Conduct": {
-        100: ["Treating colleagues with fairness, dignity, and respect.", "Professionalism"],
-        200: ["Unwelcome behavior that creates a hostile or uncomfortable work environment.", "Harassment"],
-        300: ["Reporting unethical behavior or policy violations.", "Whistleblowing"],
-        400: ["Avoiding favoritism and personal bias in decision-making.", "Impartiality"],
-        500: ["Using company resources for personal gain without authorization.", "Misappropriation"]
+    "The Force": {
+        100: ["The mysterious species of Jedi Master Yoda.", "What is unknown?"],
+        200: ["The Sith homeworld introduced in *The Rise of Skywalker*.", "What is Exegol?"],
+        300: ["The ability that allows Jedi and Sith to influence minds.", "What is a Jedi Mind Trick?"],
+        400: ["This Force-sensitive warrior was neither Jedi nor Sith and wielded white lightsabers.", "Who is Ahsoka Tano?"],
+        500: ["The powerful entity that represented the Light Side of the Force in *The Clone Wars*.", "Who is the Daughter?"]
     },
-    "Legal & Compliance": {
-        100: ["Falsifying documents or financial records for personal or business gain.", "Fraud"],
-        200: ["Laws that protect employees from discrimination based on race, gender, or religion.", "Equal Employment Opportunity (EEO) laws"],
-        300: ["Offering or accepting something of value to influence a business decision.", "Bribery"],
-        400: ["The requirement to disclose any conflicts of interest in professional dealings.", "Transparency"],
-        500: ["A set of company policies that outline acceptable workplace behavior and expectations.", "Code of Conduct"]
+    "Ships & Vehicles": {
+        100: ["The model of the Millennium Falcon.", "What is a YT-1300 Light Freighter?"],
+        200: ["The heavily modified ship used by Boba Fett.", "What is Slave I?"],
+        300: ["Darth Vader’s personal TIE Fighter.", "What is the TIE Advanced x1?"],
+        400: ["The name of General Grievous’ flagship in *Revenge of the Sith*.", "What is the Invisible Hand?"],
+        500: ["The stolen Imperial shuttle the Rebels used to sneak onto Endor.", "What is Tydirium?"]
     },
-    "Professional Responsibilities": {
-        100: ["The expectation that professionals will continue to develop their skills and knowledge.", "Continuous learning"],
-        200: ["The obligation to report misconduct, even if it may have personal consequences.", "Duty to report"],
-        300: ["Avoiding giving or receiving these to prevent conflicts of interest.", "Gifts and favors"],
-        400: ["Following lawful instructions from supervisors unless they violate ethical standards.", "Ethical obedience"],
-        500: ["The responsibility of a leader to set a strong ethical example.", "Ethical leadership"]
+    "Famous Quotes": {
+        100: ["'There’s always a bigger fish.'", "Who is Qui-Gon Jinn?"],
+        200: ["'So this is how liberty dies... with thunderous applause.'", "Who is Padmé Amidala?"],
+        300: ["'Let the past die. Kill it if you have to.'", "Who is Kylo Ren?"],
+        400: ["'You were the Chosen One! It was said that you would destroy the Sith, not join them!'", "Who is Obi-Wan Kenobi?"],
+        500: ["'In my experience, there’s no such thing as luck.'", "Who is Obi-Wan Kenobi?"]
     },
-    "Digital & Online Conduct": {
-        100: ["Using company technology for personal, illegal, or inappropriate purposes.", "Misuse of company resources"],
-        200: ["The duty to protect sensitive client or company data.", "Data privacy"],
-        300: ["Unauthorized sharing or leaking of confidential company information.", "Information breach"],
-        400: ["Posting false or damaging statements about a company or colleague online.", "Defamation"],
-        500: ["The principle that encourages professionals to think carefully before posting online.", "Responsible online conduct"]
+    "The Clone Wars": {
+        100: ["The planet where the Clone Army was created.", "What is Kamino?"],
+        200: ["The Clone Trooper who removed his inhibitor chip and helped Ahsoka escape Order 66.", "Who is Captain Rex?"],
+        300: ["The Sith Lord who oversaw the creation of the Clone Army.", "Who is Count Dooku?"],
+        400: ["The Mandalorian warrior who wielded the Darksaber and ruled Mandalore before the Clone Wars.", "Who is Pre Vizsla?"],
+        500: ["The Kaminoan scientist who secretly programmed the inhibitor chips in Clone Troopers.", "Who is Nala Se?"]
     }
 };
 
