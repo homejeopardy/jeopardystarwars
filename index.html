@@ -39,10 +39,14 @@
 
         <script src="script.js"></script>
     
-    <audio id="jeopardy-theme">
-        <source src="https://ia801605.us.archive.org/1/items/R2d2Beeps/r2-d2.mp3" type="audio/mp3">
-        Your browser does not support the audio element.
-    </audio>
+   <audio id="jeopardy-theme" volume="0.8">
+    <source src="https://ia801605.us.archive.org/1/items/R2d2Beeps/r2-d2.mp3" type="audio/mp3">
+    Your browser does not support the audio element.
+</audio>
+
+<script>
+    document.getElementById("jeopardy-theme").volume = 0.8; // Set volume to 30%
+</script>
 
 </body>
 </html>
