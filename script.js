@@ -1,38 +1,38 @@
 const categories = {
     "The Skywalker Saga": {
-        100: ["The podracing event Anakin Skywalker won on Tatooine.", "What is the Boonta Eve Classic?"],
-        200: ["The Jedi Master who trained Qui-Gon Jinn.", "Who is Count Dooku?"],
-        300: ["The Sith Lord who trained Emperor Palpatine.", "Who is Darth Plagueis?"],
-        400: ["The name of Padmé Amidala's home planet.", "What is Naboo?"],
-        500: ["The planet where Obi-Wan Kenobi defeats Anakin Skywalker in *Revenge of the Sith*.", "What is Mustafar?"]
+        100: ["Luke and Anakin Skywalker both called this arid planet home.", "What is Tatooine?"],
+        200: ["Before becoming Darth Vader, this Jedi was a skilled pilot and warrior.", "Who is Anakin Skywalker?"],
+        300: ["Anakin Skywalker’s final word before taking his last breath.", "What is 'Luke'?"],
+        400: ["This actor portrayed Luke Skywalker in the original *Star Wars* trilogy.", "Who is Mark Hamill?"],
+        500: ["The surname Leia had before discovering she was a Skywalker.", "What is Organa?"]
     },
     "The Force": {
-        100: ["The mysterious species of Jedi Master Yoda.", "What is unknown?"],
-        200: ["The Sith homeworld introduced in *The Rise of Skywalker*.", "What is Exegol?"],
-        300: ["The ability that allows Jedi and Sith to influence minds.", "What is a Jedi Mind Trick?"],
-        400: ["This Force-sensitive warrior was neither Jedi nor Sith and wielded white lightsabers.", "Who is Ahsoka Tano?"],
-        500: ["The powerful entity that represented the Light Side of the Force in *The Clone Wars*.", "Who is the Daughter?"]
+        100: ["These microscopic organisms determine one's connection to the Force.", "What are midi-chlorians?"],
+        200: ["This wise Jedi Master offered the advice, 'Do or do not. There is no try.'", "Who is Yoda?"],
+        300: ["A guiding principle of the Sith states there should only be a master and an apprentice.", "What is the Rule of Two?"],
+        400: ["Jedi who have passed on can return in spectral form using this ability.", "What is a Force Ghost?"],
+        500: ["This ancient Mandalorian Jedi was the first to wield the Darksaber.", "Who is Tarre Vizsla?"]
     },
     "Ships & Vehicles": {
-        100: ["The model of the Millennium Falcon.", "What is a YT-1300 Light Freighter?"],
-        200: ["The heavily modified ship used by Boba Fett.", "What is Slave I?"],
-        300: ["Darth Vader’s personal TIE Fighter.", "What is the TIE Advanced x1?"],
-        400: ["The name of General Grievous’ flagship in *Revenge of the Sith*.", "What is the Invisible Hand?"],
-        500: ["The stolen Imperial shuttle the Rebels used to sneak onto Endor.", "What is Tydirium?"]
+        100: ["This ship, piloted by Han Solo, made the Kessel Run in less than 12 parsecs.", "What is the Millennium Falcon?"],
+        200: ["The standard fighter used by Imperial pilots during battles.", "What are TIE Fighters?"],
+        300: ["These towering war machines were used by the Empire to attack the Rebel base on Hoth.", "What is an AT-AT?"],
+        400: ["Boba Fett’s starship, later renamed in official *Star Wars* media.", "What is Slave I (now Firespray-31 Patrol Craft)?"],
+        500: ["The model of the Rebel blockade runner seen at the beginning of *A New Hope*.", "What is a CR90 Corvette?"]
     },
     "Famous Quotes": {
-        100: ["'There’s always a bigger fish.'", "Who is Qui-Gon Jinn?"],
-        200: ["'So this is how liberty dies... with thunderous applause.'", "Who is Padmé Amidala?"],
-        300: ["'Let the past die. Kill it if you have to.'", "Who is Kylo Ren?"],
-        400: ["'You were the Chosen One! It was said that you would destroy the Sith, not join them!'", "Who is Obi-Wan Kenobi?"],
-        500: ["'In my experience, there’s no such thing as luck.'", "Who is Obi-Wan Kenobi?"]
+        100: ["This villain shocked the galaxy when he revealed, 'I am your father!'", "Who is Darth Vader?"],
+        200: ["Han Solo greeted an old friend with this memorable line: 'Chewie, we’re home.'", "Who is Han Solo?"],
+        300: ["Ahsoka Tano made this declaration to distance herself from the Jedi Order.", "What is 'I am no Jedi.'"],
+        400: ["This catchphrase is spoken by members of the Mandalorian creed.", "What is 'This is the way.'"],
+        500: ["A Mon Calamari leader warned of an incoming attack with this famous phrase.", "What is 'It’s a trap!'"]
     },
     "The Clone Wars": {
-        100: ["The planet where the Clone Army was created.", "What is Kamino?"],
-        200: ["The Clone Trooper who removed his inhibitor chip and helped Ahsoka escape Order 66.", "Who is Captain Rex?"],
-        300: ["The Sith Lord who oversaw the creation of the Clone Army.", "Who is Count Dooku?"],
-        400: ["The Mandalorian warrior who wielded the Darksaber and ruled Mandalore before the Clone Wars.", "Who is Pre Vizsla?"],
-        500: ["The Kaminoan scientist who secretly programmed the inhibitor chips in Clone Troopers.", "Who is Nala Se?"]
+        100: ["These soldiers, grown from Jango Fett’s DNA, served the Galactic Republic.", "Who are Clone Troopers?"],
+        200: ["This young Togruta Jedi was assigned as Anakin Skywalker’s Padawan.", "Who is Ahsoka Tano?"],
+        300: ["The Sith mastermind who manipulated both sides of the Clone Wars.", "Who is Darth Sidious?"],
+        400: ["This decorated clone officer fought alongside Anakin Skywalker in the 501st Legion.", "Who is Captain Rex?"],
+        500: ["This emergency directive forced Clone Troopers to execute Jedi commanders.", "What is Order 66?"]
     }
 };
 
