@@ -1,5 +1,5 @@
 const categories = {
-   {
+   
     "Jedi & Sith": {
         100: ["The color of a Jedi Guardian’s lightsaber.", "What is blue?"],
         200: ["Darth Maul wielded this unique type of lightsaber.", "What is a double-bladed lightsaber?"],
