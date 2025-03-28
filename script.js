@@ -1,38 +1,39 @@
 const categories = {
-    "The Skywalker Saga": {
-        100: ["Luke and Anakin Skywalker both called this arid planet home.", "What is Tatooine?"],
-        200: ["Before becoming Darth Vader, this Jedi was a skilled pilot and warrior.", "Who is Anakin Skywalker?"],
-        300: ["Anakin Skywalker’s final word before taking his last breath.", "What is 'Luke'?"],
-        400: ["This actor portrayed Luke Skywalker in the original *Star Wars* trilogy.", "Who is Mark Hamill?"],
-        500: ["The surname Leia had before discovering she was a Skywalker.", "What is Organa?"]
+   {
+    "Jedi & Sith": {
+        100: ["The color of a Jedi Guardian’s lightsaber.", "What is blue?"],
+        200: ["Darth Maul wielded this unique type of lightsaber.", "What is a double-bladed lightsaber?"],
+        300: ["This Jedi Master defeated Emperor Palpatine in *Revenge of the Sith*—at least temporarily.", "Who is Mace Windu?"],
+        400: ["The Sith homeworld, known for its dark side energy and ancient temples.", "What is Korriban (or Moraband)?"],
+        500: ["This Jedi, often referred to as ‘The Negotiator,’ fought in the Clone Wars.", "Who is Obi-Wan Kenobi?"]
     },
-    "The Force": {
-        100: ["These microscopic organisms determine one's connection to the Force.", "What are midi-chlorians?"],
-        200: ["This wise Jedi Master offered the advice, 'Do or do not. There is no try.'", "Who is Yoda?"],
-        300: ["A guiding principle of the Sith states there should only be a master and an apprentice.", "What is the Rule of Two?"],
-        400: ["Jedi who have passed on can return in spectral form using this ability.", "What is a Force Ghost?"],
-        500: ["This ancient Mandalorian Jedi was the first to wield the Darksaber.", "Who is Tarre Vizsla?"]
+    "Galactic Battles": {
+        100: ["The climactic space battle in *A New Hope* was fought over this planet.", "What is Yavin IV?"],
+        200: ["The Rebel Alliance destroyed the second Death Star in this battle.", "What is the Battle of Endor?"],
+        300: ["This planet saw the first clash between the Separatists and the Republic in *Attack of the Clones*.", "What is Geonosis?"],
+        400: ["The planet where the Resistance launched a desperate last stand in *The Last Jedi*.", "What is Crait?"],
+        500: ["The legendary Sith fleet was hidden on this planet in *The Rise of Skywalker*.", "What is Exegol?"]
     },
-    "Ships & Vehicles": {
-        100: ["This ship, piloted by Han Solo, made the Kessel Run in less than 12 parsecs.", "What is the Millennium Falcon?"],
-        200: ["The standard fighter used by Imperial pilots during battles.", "What are TIE Fighters?"],
-        300: ["These towering war machines were used by the Empire to attack the Rebel base on Hoth.", "What is an AT-AT?"],
-        400: ["Boba Fett’s starship, later renamed in official *Star Wars* media.", "What is Slave I (now Firespray-31 Patrol Craft)?"],
-        500: ["The model of the Rebel blockade runner seen at the beginning of *A New Hope*.", "What is a CR90 Corvette?"]
+    "Droids": {
+        100: ["The golden protocol droid fluent in over six million forms of communication.", "Who is C-3PO?"],
+        200: ["The astromech droid that accompanied Luke Skywalker on many adventures.", "Who is R2-D2?"],
+        300: ["The black BB-series droid used by the First Order.", "Who is BB-9E?"],
+        400: ["The assassin droid that later became a protector of Grogu in *The Mandalorian*.", "Who is IG-11?"],
+        500: ["The Separatist leader who commanded an army of battle droids.", "Who is General Grievous?"]
     },
-    "Famous Quotes": {
-        100: ["This villain shocked the galaxy when he revealed, 'I am your father!'", "Who is Darth Vader?"],
-        200: ["Han Solo greeted an old friend with this memorable line: 'Chewie, we’re home.'", "Who is Han Solo?"],
-        300: ["Ahsoka Tano made this declaration to distance herself from the Jedi Order.", "What is 'I am no Jedi.'"],
-        400: ["This catchphrase is spoken by members of the Mandalorian creed.", "What is 'This is the way.'"],
-        500: ["A Mon Calamari leader warned of an incoming attack with this famous phrase.", "What is 'It’s a trap!'"]
+    "Planets & Locations": {
+        100: ["The Wookiee homeworld, seen in *Revenge of the Sith*.", "What is Kashyyyk?"],
+        200: ["The swampy world where Luke trained with Yoda.", "What is Dagobah?"],
+        300: ["The desert planet where Rey scavenged before joining the Resistance.", "What is Jakku?"],
+        400: ["The capital of the Galactic Republic and later the Empire.", "What is Coruscant?"],
+        500: ["The volcanic planet where Anakin Skywalker was defeated by Obi-Wan Kenobi.", "What is Mustafar?"]
     },
-    "The Clone Wars": {
-        100: ["These soldiers, grown from Jango Fett’s DNA, served the Galactic Republic.", "Who are Clone Troopers?"],
-        200: ["This young Togruta Jedi was assigned as Anakin Skywalker’s Padawan.", "Who is Ahsoka Tano?"],
-        300: ["The Sith mastermind who manipulated both sides of the Clone Wars.", "Who is Darth Sidious?"],
-        400: ["This decorated clone officer fought alongside Anakin Skywalker in the 501st Legion.", "Who is Captain Rex?"],
-        500: ["This emergency directive forced Clone Troopers to execute Jedi commanders.", "What is Order 66?"]
+    "Creatures & Aliens": {
+        100: ["Jabba the Hutt belongs to this slug-like species.", "What is a Hutt?"],
+        200: ["These fierce, fur-covered warriors helped defeat the Empire on Endor.", "What are Ewoks?"],
+        300: ["The amphibious species native to Naboo, represented by Jar Jar Binks.", "What are Gungans?"],
+        400: ["The beast that nearly devoured Luke in Jabba’s palace.", "What is a Rancor?"],
+        500: ["The massive sand-dwelling creature that swallowed Boba Fett.", "What is a Sarlacc?"]
     }
 };
 
