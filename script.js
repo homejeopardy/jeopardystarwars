@@ -1,39 +1,39 @@
 const categories = {
    
-    "Jedi & Sith": {
-        100: ["The color of a Jedi Guardian’s lightsaber.", "What is blue?"],
-        200: ["Darth Maul wielded this unique type of lightsaber.", "What is a double-bladed lightsaber?"],
-        300: ["This Jedi Master defeated Emperor Palpatine in *Revenge of the Sith*—at least temporarily.", "Who is Mace Windu?"],
-        400: ["The Sith homeworld, known for its dark side energy and ancient temples.", "What is Korriban (or Moraband)?"],
-        500: ["This Jedi, often referred to as ‘The Negotiator,’ fought in the Clone Wars.", "Who is Obi-Wan Kenobi?"]
+    "Clone Wars": {
+        100: ["This former Jedi led the Separatist army during the Clone Wars.", "Who is Count Dooku?"],
+        200: ["This clone trooper captain served under Anakin Skywalker.", "Who is Captain Rex?"],
+        300: ["The Clone Wars officially ended after this infamous event.", "What is Order 66?"],
+        400: ["This Jedi Padawan, once Anakin’s apprentice, left the Jedi Order before the Clone Wars ended.", "Who is Ahsoka Tano?"],
+        500: ["The planet where the first battle of the Clone Wars took place.", "What is Geonosis?"]
     },
-    "Galactic Battles": {
-        100: ["The climactic space battle in *A New Hope* was fought over this planet.", "What is Yavin IV?"],
-        200: ["The Rebel Alliance destroyed the second Death Star in this battle.", "What is the Battle of Endor?"],
-        300: ["This planet saw the first clash between the Separatists and the Republic in *Attack of the Clones*.", "What is Geonosis?"],
-        400: ["The planet where the Resistance launched a desperate last stand in *The Last Jedi*.", "What is Crait?"],
-        500: ["The legendary Sith fleet was hidden on this planet in *The Rise of Skywalker*.", "What is Exegol?"]
+    "Ray": {
+        100: ["Rey’s home planet, where she scavenged for a living.", "What is Jakku?"],
+        200: ["The weapon Rey wields as a Jedi.", "What is a lightsaber?"],
+        300: ["The identity of Rey’s grandfather.", "Who is Emperor Palpatine?"],
+        400: ["The ancient Jedi texts Rey recovered were found on this planet.", "What is Ahch-To?"],
+        500: ["Rey adopts this last name at the end of *The Rise of Skywalker*.", "What is Skywalker?"]
     },
-    "Droids": {
-        100: ["The golden protocol droid fluent in over six million forms of communication.", "Who is C-3PO?"],
-        200: ["The astromech droid that accompanied Luke Skywalker on many adventures.", "Who is R2-D2?"],
-        300: ["The black BB-series droid used by the First Order.", "Who is BB-9E?"],
-        400: ["The assassin droid that later became a protector of Grogu in *The Mandalorian*.", "Who is IG-11?"],
-        500: ["The Separatist leader who commanded an army of battle droids.", "Who is General Grievous?"]
+    "Death Star": {
+        100: ["The Death Star was first introduced in this original trilogy film.", "What is *A New Hope*?"],
+        200: ["The Death Star’s superlaser was powered by this rare crystal.", "What is a kyber crystal?"],
+        300: ["The small thermal exhaust port that led to the Death Star’s destruction was designed as sabotage by this scientist.", "Who is Galen Erso?"],
+        400: ["The second Death Star was destroyed during this battle.", "What is the Battle of Endor?"],
+        500: ["The moon-sized Death Star was first constructed under the orders of this leader.", "Who is Emperor Palpatine?"]
     },
-    "Planets & Locations": {
-        100: ["The Wookiee homeworld, seen in *Revenge of the Sith*.", "What is Kashyyyk?"],
-        200: ["The swampy world where Luke trained with Yoda.", "What is Dagobah?"],
-        300: ["The desert planet where Rey scavenged before joining the Resistance.", "What is Jakku?"],
-        400: ["The capital of the Galactic Republic and later the Empire.", "What is Coruscant?"],
-        500: ["The volcanic planet where Anakin Skywalker was defeated by Obi-Wan Kenobi.", "What is Mustafar?"]
+    "The First Order": {
+        100: ["The First Order rose from the remnants of this defeated faction.", "What is the Galactic Empire?"],
+        200: ["The supreme leader of the First Order at the start of *The Force Awakens*.", "Who is Snoke?"],
+        300: ["This massive base served as the First Order’s primary weapon.", "What is Starkiller Base?"],
+        400: ["This stormtrooper abandoned his post and later became a Resistance hero.", "Who is Finn?"],
+        500: ["Kylo Ren led this elite group of warriors within the First Order.", "Who are the Knights of Ren?"]
     },
-    "Creatures & Aliens": {
-        100: ["Jabba the Hutt belongs to this slug-like species.", "What is a Hutt?"],
-        200: ["These fierce, fur-covered warriors helped defeat the Empire on Endor.", "What are Ewoks?"],
-        300: ["The amphibious species native to Naboo, represented by Jar Jar Binks.", "What are Gungans?"],
-        400: ["The beast that nearly devoured Luke in Jabba’s palace.", "What is a Rancor?"],
-        500: ["The massive sand-dwelling creature that swallowed Boba Fett.", "What is a Sarlacc?"]
+    "Palpatine": {
+        100: ["Palpatine’s Sith name.", "Who is Darth Sidious?"],
+        200: ["The planet where Palpatine was supposedly killed in *Return of the Jedi*.", "What is the Death Star II (over Endor)?"],
+        300: ["The Jedi Knight Palpatine manipulated into becoming Darth Vader.", "Who is Anakin Skywalker?"],
+        400: ["Palpatine disguised himself as this high-ranking politician before revealing himself as a Sith Lord.", "Who is the Chancellor of the Republic?"],
+        500: ["In *The Rise of Skywalker*, Palpatine’s hidden stronghold is located on this planet.", "What is Exegol?"]
     }
 };
 
