@@ -96,3 +96,21 @@ h1 {
     font-size: 1.5em;
     color: #0000CC;
 }
+
+.final-jeopardy-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: gold;
+  color: black;
+  padding: 10px 15px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 10px;
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+  transition: background 0.3s ease;
+}
+
+.final-jeopardy-button:hover {
+  background-color: darkgoldenrod;
+}
