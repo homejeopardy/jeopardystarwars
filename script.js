@@ -1,39 +1,40 @@
 const categories = {
    
-    "Clone Wars": {
-        100: ["This former Jedi led the Separatist army during the Clone Wars.", "Who is Count Dooku?"],
-        200: ["This clone trooper captain served under Anakin Skywalker.", "Who is Captain Rex?"],
-        300: ["The Clone Wars officially ended after this infamous event.", "What is Order 66?"],
-        400: ["This Jedi Padawan, once Anakin’s apprentice, left the Jedi Order before the Clone Wars ended.", "Who is Ahsoka Tano?"],
-        500: ["The planet where the first battle of the Clone Wars took place.", "What is Geonosis?"]
+    {
+    "Islands": {
+        100: ["This island is home to the Statue of Liberty.", "What is Liberty Island?"],
+        200: ["Hawaii’s largest island is often called this.", "What is the Big Island?"],
+        300: ["This island nation is known as the Land of the Rising Sun.", "What is Japan?"],
+        400: ["This island was Napoleon Bonaparte’s place of exile after his defeat in 1815.", "What is Saint Helena?"],
+        500: ["The world’s second-largest island, shared by Indonesia and Papua New Guinea.", "What is New Guinea?"]
     },
-    "Ray": {
-        100: ["Rey’s home planet, where she scavenged for a living.", "What is Jakku?"],
-        200: ["The weapon Rey wields as a Jedi.", "What is a lightsaber?"],
-        300: ["The identity of Rey’s grandfather.", "Who is Emperor Palpatine?"],
-        400: ["The ancient Jedi texts Rey recovered were found on this planet.", "What is Ahch-To?"],
-        500: ["Rey adopts this last name at the end of *The Rise of Skywalker*.", "What is Skywalker?"]
+    "Star Wars": {
+        100: ["This droid is fluent in over six million forms of communication.", "Who is C-3PO?"],
+        200: ["The Sith homeworld, where Emperor Palpatine’s final stronghold was located.", "What is Exegol?"],
+        300: ["This Mandalorian bounty hunter was the original donor for the Republic’s clone army.", "Who is Jango Fett?"],
+        400: ["The color of Mace Windu’s unique lightsaber.", "What is purple?"],
+        500: ["The Jedi High Council met in a temple located on this planet.", "What is Coruscant?"]
     },
-    "Death Star": {
-        100: ["The Death Star was first introduced in this original trilogy film.", "What is *A New Hope*?"],
-        200: ["The Death Star’s superlaser was powered by this rare crystal.", "What is a kyber crystal?"],
-        300: ["The small thermal exhaust port that led to the Death Star’s destruction was designed as sabotage by this scientist.", "Who is Galen Erso?"],
-        400: ["The second Death Star was destroyed during this battle.", "What is the Battle of Endor?"],
-        500: ["The moon-sized Death Star was first constructed under the orders of this leader.", "Who is Emperor Palpatine?"]
+    "Fruit": {
+        100: ["This fruit is known for keeping doctors away.", "What is an apple?"],
+        200: ["Strawberries are unique because their seeds are found here.", "What is on the outside?"],
+        300: ["This tropical fruit has a spiky exterior but sweet, juicy flesh inside.", "What is a pineapple?"],
+        400: ["This green fruit is commonly mistaken for a vegetable and is used to make guacamole.", "What is an avocado?"],
+        500: ["This small, dark purple fruit is used to make prunes.", "What are plums?"]
     },
-    "The First Order": {
-        100: ["The First Order rose from the remnants of this defeated faction.", "What is the Galactic Empire?"],
-        200: ["The supreme leader of the First Order at the start of *The Force Awakens*.", "Who is Snoke?"],
-        300: ["This massive base served as the First Order’s primary weapon.", "What is Starkiller Base?"],
-        400: ["This stormtrooper abandoned his post and later became a Resistance hero.", "Who is Finn?"],
-        500: ["Kylo Ren led this elite group of warriors within the First Order.", "Who are the Knights of Ren?"]
+    "Animal Facts": {
+        100: ["This large land mammal is known for its long trunk.", "What is an elephant?"],
+        200: ["A group of lions is called this.", "What is a pride?"],
+        300: ["This flightless bird is the fastest runner of all birds.", "What is an ostrich?"],
+        400: ["This marine animal can change colors and blend into its surroundings.", "What is an octopus?"],
+        500: ["This is the only mammal capable of true flight.", "What is a bat?"]
     },
-    "Palpatine": {
-        100: ["Palpatine’s Sith name.", "Who is Darth Sidious?"],
-        200: ["The planet where Palpatine was supposedly killed in *Return of the Jedi*.", "What is the Death Star II (over Endor)?"],
-        300: ["The Jedi Knight Palpatine manipulated into becoming Darth Vader.", "Who is Anakin Skywalker?"],
-        400: ["Palpatine disguised himself as this high-ranking politician before revealing himself as a Sith Lord.", "Who is the Chancellor of the Republic?"],
-        500: ["In *The Rise of Skywalker*, Palpatine’s hidden stronghold is located on this planet.", "What is Exegol?"]
+    "Math": {
+        100: ["The sum of angles in a triangle always adds up to this many degrees.", "What is 180?"],
+        200: ["This mathematical constant, approximately 3.14159, represents the ratio of a circle’s circumference to its diameter.", "What is pi?"],
+        300: ["The square root of 144.", "What is 12?"],
+        400: ["In algebra, the term for a number that multiplies a variable.", "What is a coefficient?"],
+        500: ["The mathematical name for a polygon with 12 sides.", "What is a dodecagon?"]
     }
 };
 
