@@ -1,6 +1,5 @@
 const categories = {
    
-    {
     "Islands": {
         100: ["This island is home to the Statue of Liberty.", "What is Liberty Island?"],
         200: ["Hawaii’s largest island is often called this.", "What is the Big Island?"],
