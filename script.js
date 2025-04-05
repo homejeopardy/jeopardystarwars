@@ -1,38 +1,38 @@
 const categories = {
-    "Berkeley": {
-        100: ["This public university, founded in 1868, is the flagship of the University of California system.", "What is UC Berkeley?"],
-        200: ["Berkeley sits on the eastern shore of this famous Bay.", "What is the San Francisco Bay?"],
-        300: ["This 1960s movement, centered on free speech and student protest, began at UC Berkeley.", "What is the Free Speech Movement?"],
-        400: ["This renowned physics laboratory, once directed by J. Robert Oppenheimer, is located in the Berkeley Hills.", "What is Lawrence Berkeley National Laboratory?"],
-        500: ["Berkeley’s city council was among the first in the U.S. to declare this international city as a sister city in solidarity.", "What is Havana?"]
+    "School History": {
+        100: ["In what year was Black Pine Circle School founded?", "What is 1973?"],
+        200: ["Black Pine Circle School was originally founded in which city?", "What is Berkeley?"],
+        300: ["This method of inquiry-based discussion is a cornerstone of BPC’s education.", "What is the Socratic method?"],
+        400: ["The founders were inspired to start the school while camping in this mountain range.", "What are the Sierras?"],
+        500: ["This was the first grade level taught when BPC opened.", "What is Kindergarten?"]
     },
-    "Birds": {
-        100: ["This large, flightless bird from Africa is known for its long legs and fast running speed.", "What is an ostrich?"],
-        200: ["This U.S. bird of prey became the national emblem in 1782.", "What is the bald eagle?"],
-        300: ["These brightly colored birds are famous for their mimicry and are often kept as pets.", "What are parrots?"],
-        400: ["The males of this bird species perform elaborate dances and display colorful plumage to attract mates.", "What is the bird of paradise?"],
-        500: ["Known for its haunting call, this aquatic bird appears on Canada’s $1 coin.", "What is the loon?"]
+    "School Life": {
+        100: ["This daily gathering builds community and starts the day at BPC.", "What is Morning Circle?"],
+        200: ["Students once raised these animals in a coop they helped build.", "What are chickens?"],
+        300: ["This special celebration honors the school's founding and traditions.", "What is Founders Day?"],
+        400: ["Each spring, middle schoolers present this major project blending research and public speaking.", "What is the Capstone Project?"],
+        500: ["BPC celebrates Halloween with this fun tradition.", "What is a costume parade or contest?"]
     },
-    "Musicals": {
-        100: ["“Do-Re-Mi” is a famous song from this Rodgers and Hammerstein musical.", "What is The Sound of Music?"],
-        200: ["This musical tells the story of founding father Alexander Hamilton.", "What is Hamilton?"],
-        300: ["In Les Misérables, this character steals a loaf of bread and is pursued for life.", "Who is Jean Valjean?"],
-        400: ["“Defying Gravity” is a standout number in this musical based on The Wizard of Oz.", "What is Wicked?"],
-        500: ["This musical features Jellicle cats and a song called “Memory.”", "What is Cats?"]
+    "The Arts": {
+        100: ["Students perform musicals and plays on this stage area.", "What is the drama stage?"],
+        200: ["The middle school jazz ensemble performs pieces from this genre.", "What is jazz?"],
+        300: ["This club helps students hone their storytelling and narrative skills.", "What is the creative writing club?"],
+        400: ["Art classes at BPC often focus on this form of visual creativity.", "What is visual art?"],
+        500: ["This bowed string instrument is taught and performed in school ensembles.", "What is the violin?"]
     },
-    "Utah": {
-        100: ["This U.S. state is home to the Great Salt Lake.", "What is Utah?"],
-        200: ["Utah’s capital and largest city.", "What is Salt Lake City?"],
-        300: ["This national park, known for its natural sandstone arches, is located near Moab, Utah.", "What is Arches National Park?"],
-        400: ["This religious group helped settle Utah in the 19th century.", "Who are the Mormons?"],
-        500: ["Utah touches how many other U.S. states?", "What is six?"]
+    "Faculty & Staff": {
+        100: ["This person is Head of School as of 2025.", "Who is John Carlstroem?"],
+        200: ["This language teacher also works as a translator for young adult books.", "Who is Aïda Garcia-Pons?"],
+        300: ["This math teacher and coach studied economics before switching careers.", "Who is Dan Hughes?"],
+        400: ["The school counselor leads lessons and programs focused on this area of student well-being.", "What is social-emotional learning?"],
+        500: ["Teachers frequently use this method of guided questioning in discussions.", "What is the Socratic method?"]
     },
-    "DC": {
-        100: ["DC is short for this.", "What is District of Columbia?"],
-        200: ["This obelisk honors the first President of the United States.", "What is the Washington Monument?"],
-        300: ["This iconic museum complex includes the Air and Space Museum.", "What is the Smithsonian Institution?"],
-        400: ["DC is home to this U.S. Supreme Court building.", "What is the Supreme Court?"],
-        500: ["This Neoclassical memorial honors the third president and author of the Declaration of Independence.", "What is the Jefferson Memorial?"]
+    "School Facts": {
+        100: ["As of 2025, this is the approximate number of students at BPC.", "What is 330?"],
+        200: ["BPC serves students in this grade range.", "What are Kindergarten through 8th grade?"],
+        300: ["This percentage of students receive financial aid.", "What is 28%?"],
+        400: ["The average financial aid award is around this amount.", "What is $18,000?"],
+        500: ["BPC has this many separate campuses as of 2025.", "What is two?"]
     }
 };
 
