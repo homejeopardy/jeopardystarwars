@@ -1,39 +1,38 @@
 const categories = {
-   
-    "Islands": {
-        100: ["This island is home to the Statue of Liberty.", "What is Liberty Island?"],
-        200: ["Hawaii’s largest island is often called this.", "What is the Big Island?"],
-        300: ["This island nation is known as the Land of the Rising Sun.", "What is Japan?"],
-        400: ["This island was Napoleon Bonaparte’s place of exile after his defeat in 1815.", "What is Saint Helena?"],
-        500: ["The world’s second-largest island, shared by Indonesia and Papua New Guinea.", "What is New Guinea?"]
+    "Berkeley": {
+        100: ["This public university, founded in 1868, is the flagship of the University of California system.", "What is UC Berkeley?"],
+        200: ["Berkeley sits on the eastern shore of this famous Bay.", "What is the San Francisco Bay?"],
+        300: ["This 1960s movement, centered on free speech and student protest, began at UC Berkeley.", "What is the Free Speech Movement?"],
+        400: ["This renowned physics laboratory, once directed by J. Robert Oppenheimer, is located in the Berkeley Hills.", "What is Lawrence Berkeley National Laboratory?"],
+        500: ["Berkeley’s city council was among the first in the U.S. to declare this international city as a sister city in solidarity.", "What is Havana?"]
     },
-    "Star Wars": {
-        100: ["This droid is fluent in over six million forms of communication.", "Who is C-3PO?"],
-        200: ["The Sith homeworld, where Emperor Palpatine’s final stronghold was located.", "What is Exegol?"],
-        300: ["This Mandalorian bounty hunter was the original donor for the Republic’s clone army.", "Who is Jango Fett?"],
-        400: ["The color of Mace Windu’s unique lightsaber.", "What is purple?"],
-        500: ["The Jedi High Council met in a temple located on this planet.", "What is Coruscant?"]
+    "Birds": {
+        100: ["This large, flightless bird from Africa is known for its long legs and fast running speed.", "What is an ostrich?"],
+        200: ["This U.S. bird of prey became the national emblem in 1782.", "What is the bald eagle?"],
+        300: ["These brightly colored birds are famous for their mimicry and are often kept as pets.", "What are parrots?"],
+        400: ["The males of this bird species perform elaborate dances and display colorful plumage to attract mates.", "What is the bird of paradise?"],
+        500: ["Known for its haunting call, this aquatic bird appears on Canada’s $1 coin.", "What is the loon?"]
     },
-    "Fruit": {
-        100: ["This fruit is known for keeping doctors away.", "What is an apple?"],
-        200: ["Strawberries are unique because their seeds are found here.", "What is on the outside?"],
-        300: ["This tropical fruit has a spiky exterior but sweet, juicy flesh inside.", "What is a pineapple?"],
-        400: ["This green fruit is commonly mistaken for a vegetable and is used to make guacamole.", "What is an avocado?"],
-        500: ["This small, dark purple fruit is used to make prunes.", "What are plums?"]
+    "Musicals": {
+        100: ["“Do-Re-Mi” is a famous song from this Rodgers and Hammerstein musical.", "What is The Sound of Music?"],
+        200: ["This musical tells the story of founding father Alexander Hamilton.", "What is Hamilton?"],
+        300: ["In Les Misérables, this character steals a loaf of bread and is pursued for life.", "Who is Jean Valjean?"],
+        400: ["“Defying Gravity” is a standout number in this musical based on The Wizard of Oz.", "What is Wicked?"],
+        500: ["This musical features Jellicle cats and a song called “Memory.”", "What is Cats?"]
     },
-    "Animal Facts": {
-        100: ["This large land mammal is known for its long trunk.", "What is an elephant?"],
-        200: ["A group of lions is called this.", "What is a pride?"],
-        300: ["This flightless bird is the fastest runner of all birds.", "What is an ostrich?"],
-        400: ["This marine animal can change colors and blend into its surroundings.", "What is an octopus?"],
-        500: ["This is the only mammal capable of true flight.", "What is a bat?"]
+    "Utah": {
+        100: ["This U.S. state is home to the Great Salt Lake.", "What is Utah?"],
+        200: ["Utah’s capital and largest city.", "What is Salt Lake City?"],
+        300: ["This national park, known for its natural sandstone arches, is located near Moab, Utah.", "What is Arches National Park?"],
+        400: ["This religious group helped settle Utah in the 19th century.", "Who are the Mormons?"],
+        500: ["Utah touches how many other U.S. states?", "What is six?"]
     },
-    "Math": {
-        100: ["The sum of angles in a triangle always adds up to this many degrees.", "What is 180?"],
-        200: ["This mathematical constant, approximately 3.14159, represents the ratio of a circle’s circumference to its diameter.", "What is pi?"],
-        300: ["The square root of 144.", "What is 12?"],
-        400: ["In algebra, the term for a number that multiplies a variable.", "What is a coefficient?"],
-        500: ["The mathematical name for a polygon with 12 sides.", "What is a dodecagon?"]
+    "DC": {
+        100: ["DC is short for this.", "What is District of Columbia?"],
+        200: ["This obelisk honors the first President of the United States.", "What is the Washington Monument?"],
+        300: ["This iconic museum complex includes the Air and Space Museum.", "What is the Smithsonian Institution?"],
+        400: ["DC is home to this U.S. Supreme Court building.", "What is the Supreme Court?"],
+        500: ["This Neoclassical memorial honors the third president and author of the Declaration of Independence.", "What is the Jefferson Memorial?"]
     }
 };
 
